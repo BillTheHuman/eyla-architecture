@@ -1,0 +1,40 @@
+(* SPDX-License-Identifier: AGPL-3.0-or-later *)
+(* Copyright (c) 2026 William Francis Rineer III. *)
+(* COMPANION machine-facing grammar seed. *)
+
+companion_string = ground, "[", anchor, "::", relation, "::", attribute, "::", operation, "]" ;
+
+ground = "⟘" ;
+
+anchor = identifier ;
+relation = identifier ;
+attribute = identifier ;
+operation = operation_token | operation_token, ":", operation_argument ;
+
+operation_token =
+    "SCAN"
+  | "BIND"
+  | "LINK"
+  | "TAG"
+  | "SEAL"
+  | "RETURN"
+  | "CHECK"
+  | "TRACE"
+  | "DECLARE"
+  | "EXTEND" ;
+
+operation_argument = identifier ;
+
+identifier = identifier_char, { identifier_char } ;
+identifier_char = letter | digit | "-" | "_" ;
+
+letter = "A" | "B" | "C" | "D" | "E" | "F" | "G"
+       | "H" | "I" | "J" | "K" | "L" | "M" | "N"
+       | "O" | "P" | "Q" | "R" | "S" | "T" | "U"
+       | "V" | "W" | "X" | "Y" | "Z"
+       | "a" | "b" | "c" | "d" | "e" | "f" | "g"
+       | "h" | "i" | "j" | "k" | "l" | "m" | "n"
+       | "o" | "p" | "q" | "r" | "s" | "t" | "u"
+       | "v" | "w" | "x" | "y" | "z" ;
+
+digit = "0" | "1" | "2" | "3" | "4" | "5" | "6" | "7" | "8" | "9" ;

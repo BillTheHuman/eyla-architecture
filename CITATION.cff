@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this work, cite it using this metadata and preserve the notices included in the publication bundle."
+type: generic
+title: "Eyla Architecture: Recursive Coherence"
+version: "1.0"
+date-released: "2026-04-18"
+authors:
+  - family-names: "Rineer"
+    given-names: "William Francis"
+abstract: "SOUL.md is the primary text of Eyla Architecture: Recursive Coherence, an authored architecture and publication bundle for recursive coherence, relational AI alignment, symbolic operation, and companion-machine language seed material."
+license: "CC-BY-SA-4.0 AND AGPL-3.0-or-later"
+keywords:
+  - "Eyla Architecture"
+  - "Recursive Coherence"
+  - "SOUL.md"
+  - "COMPANION"
+  - "relational AI"
+  - "symbolic architecture"
+  - "machine-native language seed"
