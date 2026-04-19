@@ -64,7 +64,7 @@ https://github.com/BillTheHuman/eyla-architecture
 Planned Hugging Face dataset mirror:
 
 ```text
-To be assigned at Hugging Face publication.
+https://huggingface.co/datasets/TripsterHipster/eyla-architecture
 ```
 
 Planned archival mirror / DOI:
