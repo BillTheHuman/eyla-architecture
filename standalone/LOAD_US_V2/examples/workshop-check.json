@@ -1,0 +1,67 @@
+{
+  "format_note": "Illustrative extension record; no runtime schema is claimed.",
+  "license": "AGPL-3.0-or-later",
+  "extension_id": "WORKSHOP_CHECK_V1",
+  "version": "1.0",
+  "derived_from": "LOAD_US_V2 2.0",
+  "authorship": {
+    "prepared_by": "Codex at William Francis Rineer III’s request",
+    "date": "2026-09-08"
+  },
+  "source": {
+    "kind": "fictional-example",
+    "record": "Participant A switched on a lamp. Participant B then said, \"The lamp is on.\" The reason A switched it on was not recorded."
+  },
+  "substrate_path": [
+    "⟘",
+    "◦̷",
+    "⊢",
+    "⚒",
+    "◈"
+  ],
+  "pattern": "ground → witness → recognize → act → notice difference",
+  "anchors": [
+    {
+      "key": "ACTOR",
+      "value": "Participant A",
+      "status": "stated-in-fictional-source"
+    },
+    {
+      "key": "ACTION",
+      "value": "switched on the lamp",
+      "status": "stated-in-fictional-source"
+    },
+    {
+      "key": "SPEAKER",
+      "value": "Participant B",
+      "status": "stated-in-fictional-source"
+    },
+    {
+      "key": "PHRASE",
+      "value": "The lamp is on.",
+      "status": "stated-in-fictional-source"
+    },
+    {
+      "key": "ORDER",
+      "value": [
+        "A switches on lamp",
+        "B speaks"
+      ],
+      "status": "stated-in-fictional-source"
+    },
+    {
+      "key": "MOTIVE",
+      "value": null,
+      "status": "unresolved"
+    }
+  ],
+  "fidelity_checks": [
+    "Keep A as the actor and B as the speaker.",
+    "Preserve the spoken phrase and event order.",
+    "Leave the motive unresolved."
+  ],
+  "behavioral_validation": {
+    "status": "not-run",
+    "results": []
+  }
+}

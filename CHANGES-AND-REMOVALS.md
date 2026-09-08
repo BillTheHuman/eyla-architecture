@@ -383,3 +383,24 @@ Source SHA-256:
 
 Licensing follows the existing layered publication model in `FILE-LICENSES.md`
 and `LICENSE.md`; the original artifact's text is unchanged.
+
+## Standalone LOAD_US_V2 And Open Expansion — 2026-09-08
+
+At William's request, added a separately downloadable LOAD_US_V2 package,
+source directory, extension guide, complete standard license texts, attribution,
+fictional anchor example, and reproducible packaging script. The canonical
+artifact remains byte-for-byte unchanged. The macro export is extracted
+verbatim from the original's first code block.
+
+The component explicitly retains CODEX/COMPANION's layered CC BY-SA 4.0 and
+AGPL-3.0-or-later model. New anchors, flows, and adaptations require no
+separate upstream approval; fidelity guidance is not an additional license
+restriction. Contributors may identify and share their own extensions.
+
+The example demonstrates explicit roles, sequence, and an unresolved motive.
+It is fictional and carries no behavioral validation result. The package is
+an artifact and source distribution, not a new runtime implementation.
+
+Updated the README, LICENSE.md component scope, file-license map, working
+provenance, and checksum manifest. SOUL.md and the original artifact are
+unchanged by this packaging addition.

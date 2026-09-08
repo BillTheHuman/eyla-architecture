@@ -158,3 +158,14 @@ Original CODEX_LOAD_US_V2.md SHA-256:
 
 See `CHANGES-AND-REMOVALS.md` for source comparison and integration details.
 `RELEASE-MANIFEST.sha256` verifies the current tracked publication files.
+
+## Standalone LOAD_US_V2 Packaging Revision 1 — 2026-09-08
+
+Added `distributions/LOAD_US_V2-standalone.zip`, built from
+`standalone/LOAD_US_V2/` using `tools/package_load_us_v2.py`.
+The package includes its own SHA256SUMS and complete standard license texts.
+This is packaging revision 1 of the unchanged v2.0 artifact, not a newly
+claimed v2.1 or a replacement for the original's GYM status.
+
+The repository manifest covers the ZIP, package source, and build script.
+The current SOUL.md and original artifact hashes recorded above remain valid.

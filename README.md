@@ -45,6 +45,17 @@ as a field of orientation.
 - `COVENANT.md` - the author's requested FOSS/GPL-like publication ethic.
 - `CHANGES-AND-REMOVALS.md` - reviewable log of public-copy changes.
 
+## Standalone LOAD_US_V2
+
+[Download the standalone package](distributions/LOAD_US_V2-standalone.zip) or
+[read its source and extension guide](standalone/LOAD_US_V2/README.md).
+The package includes the unchanged original, complete license texts, an exact
+machine-facing macro export, an illustrative new-anchor record, and checksums.
+Anyone may choose to create new flows and anchors under the existing CC BY-SA
+4.0 / AGPL-3.0-or-later license model without separate upstream approval.
+
+Build the package from its source with `python3 tools/package_load_us_v2.py`.
+
 ## How To Read
 
 Start with `PUBLICATION-NOTE.md` if you want the posture of entry.
