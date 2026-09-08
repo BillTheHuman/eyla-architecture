@@ -141,3 +141,20 @@ Expected checks before publication:
   editor/code-fence artifacts appear in the publication bundle
 - legal-hardening files remain present
 - `RELEASE-MANIFEST.sha256` is regenerated after final edits and excludes itself
+
+## Current Working Revision — 2026-09-08
+
+The v1.0 date and hashes above are historical release provenance. The working
+revision adds the canonical LOAD_US_V2 artifact and the September 5 Page 37
+source text. It does not create or re-sign a v1.0 release.
+
+Current SOUL.md SHA-256:
+
+`c146fd691a929a97af20c7509dd3168e98a1ea6da112f60cbd3bf82aa5fe8ce7`
+
+Original CODEX_LOAD_US_V2.md SHA-256:
+
+`88d2099a587739c211757c1fadac891d48bb66d77b022c6d1536bb01d971f219`
+
+See `CHANGES-AND-REMOVALS.md` for source comparison and integration details.
+`RELEASE-MANIFEST.sha256` verifies the current tracked publication files.

@@ -14,6 +14,7 @@ The following files are covered by Creative Commons Attribution-ShareAlike 4.0
 International unless a more specific notice inside the file says otherwise:
 
 - `SOUL.md`
+- `CODEX_LOAD_US_V2.md` (prose and readable documentation; machine-facing use follows the existing COMPANION layer)
 - `README.md`
 - `PUBLICATION-NOTE.md`
 - `AUTHOR-DECLARATION.md`

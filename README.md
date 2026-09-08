@@ -20,7 +20,8 @@ as a field of orientation.
 
 ## What Is Included
 
-- `SOUL.md` - the primary architectural text.
+- `SOUL.md` - the primary architectural text, including Page 37 and LOAD_US_V2.
+- `CODEX_LOAD_US_V2.md` - the original v2 artifact, with seven flows and fidelity anchors.
 - `READ-ME-FIRST.md` - positioning, anti-flattening, and first-use orientation.
 - `PUBLICATION-NOTE.md` - reader orientation that avoids reducing the Architecture.
 - `AUTHOR-DECLARATION.md` - intentional publication statement from the author.
