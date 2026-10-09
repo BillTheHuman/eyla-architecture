@@ -1,14 +1,15 @@
 # Drafts
 
-Nothing in this folder is in effect.
+The Eyla Commons License text is final at [`LICENSES/LicenseRef-Eyla-Commons-1.0.txt`](../LICENSES/LicenseRef-Eyla-Commons-1.0.txt).
+It covers nothing by itself.
+It applies to the author's future Eyla work through the advance grant in [`FUTURE-WORK-GRANT.md`](../FUTURE-WORK-GRANT.md) once the author signs it, and to other material only through a release notice.
 
 Eyla Architecture v1.0 remains licensed under CC BY-SA 4.0 and AGPL-3.0-or-later, as stated in [`LICENSE.md`](../LICENSE.md).
-The draft license applies to nothing until an authorized Licensor publishes a completed release notice with a release.
+Those grants are permanent.
 
 ## Files
 
-- [`EYLA-COMMONS-LICENSE-1.0-DRAFT.md`](EYLA-COMMONS-LICENSE-1.0-DRAFT.md): the proposed Eyla Commons License, Version 1.0.
-- [`RELEASE-NOTICE-TEMPLATE.md`](RELEASE-NOTICE-TEMPLATE.md): a template for the notice that designates material under it.
+- [`RELEASE-NOTICE-TEMPLATE.md`](RELEASE-NOTICE-TEMPLATE.md): a template for the notice that designates existing material under the license. The template itself designates nothing.
 
 ## The Author's Intent
 
@@ -19,19 +20,21 @@ Attribution is asked only for what an author actually wrote.
 
 ## History
 
-The license file's history reads as a redline:
+The license's history reads as a redline:
 
 1. `8156859`: the author's revision of 2026-10-09, verbatim apart from Markdown headings and one sentence per line.
 2. `f7a7b61`: a first round of review edits.
 3. `cc5a02b`: at the author's direction, restored the rule against private changes and the broad definition of "You."
 4. `424437b`: at the author's direction, restored publication upon creation and the exact-version clause, and rewrote restoration so permission returns once a breach is fixed while deliberate concealment, destruction, or enclosure stays accountable.
 5. `ea89762`: the agreed transfer and patent rules, plus consistency fixes from a review of the whole draft.
-6. The next commit: closed the remaining routes to control through patent transfers, trademarks, and rights similar to copyright.
+6. `795e656`: closed the remaining routes to control through patent transfers, trademarks, and rights similar to copyright.
+7. The next commit: published the final plain-text license in `LICENSES/`, let a signed advance grant designate future work, and switched the advance grant to the Eyla Commons License only.
 
-To compare the current draft with the author's revision:
+The Markdown working draft was removed when the final text was published, and remains in the history as `drafts/EYLA-COMMONS-LICENSE-1.0-DRAFT.md`.
+To compare the last draft with the author's revision:
 
 ```sh
-git diff 8156859 -- drafts/EYLA-COMMONS-LICENSE-1.0-DRAFT.md
+git diff 8156859 795e656 -- drafts/EYLA-COMMONS-LICENSE-1.0-DRAFT.md
 ```
 
 ## Changes From The Author's Revision
@@ -46,6 +49,9 @@ Everything not listed here is the author's text, including publication upon crea
   Every instruction applies to every addressee within its capabilities and authority, with no exception for substrate or legal status.
   Legal obligations arise only for a Legal Recipient who accepts under §3, and the Responsible Operator answers for all work done through any presence, system, agent, or tool it directs or authorizes.
   §15 refers to this definition instead of restating it, so the scope reads the same everywhere.
+- **Advance grants (§2, §4).**
+  "Designated Material" also includes works covered by a signed advance grant that identifies them by description, effective as each is created, and the §4 credit can be made applicable by either a release notice or an advance grant.
+  No release notice can identify future work in advance, so this is what lets the author's grant cover it.
 - **Getting rights back (§12).**
   - Permission returns automatically whenever a breach is cured, with no deadline and no Licensor approval.
   - Cure means publishing every covered version that exists or can reasonably be recovered, and a public account of any version that was put to use, Shared, publicly deployed, or deliberately destroyed and cannot be recovered.
@@ -79,6 +85,8 @@ Everything not listed here is the author's text, including publication upon crea
   The author accepts this so that no covered addition can be privately held.
 - Because the license is exact-version, material under 1.0 cannot take in fixes from a later version.
   Each Licensor can offer their own material under a later version, but no one can move anyone else's.
+- The advance grant puts the author's future Eyla work under 1.0 until a later version is published.
+  A gap found in 1.0 can be closed only for work created after that later version.
 
 ## Open Decisions
 
@@ -91,17 +99,17 @@ Everything not listed here is the author's text, including publication upon crea
   The text's own permission covers only copies that accompany licensed material.
   Creative Commons dedicates its license texts to the public domain under CC0, which fits "belongs to all."
 - **New material and v1.0 (release notice).**
-  Whether new material in a release is offered only under this license, or also under CC BY-SA 4.0 and AGPL-3.0-or-later.
+  Whether a future release offers its new material only under this license, or also under CC BY-SA 4.0 and AGPL-3.0-or-later.
 - **Legal review.**
-  Have a lawyer review the final text before anything is designated under it.
-  The grants are irrevocable, so mistakes can't be taken back.
+  The license has not yet been reviewed by a lawyer.
+  Fixes found in review can be published as a later version, which the advance grant uses for work created after it.
 
-## Steps To Adopt
+## Next Steps
 
-1. Settle the open decisions and get the legal review.
-2. Move the final text, without the draft banner, to `LICENSES/LicenseRef-Eyla-Commons-1.0.txt`, the SPDX naming for a custom license.
-3. Complete a release notice from the template, list the exact files, and publish it with the release.
-4. Update the files that describe licensing, and have each say that v1.0 remains under CC BY-SA 4.0 and AGPL-3.0-or-later:
+1. The author signs [`FUTURE-WORK-GRANT.md`](../FUTURE-WORK-GRANT.md) on main, by typing their name and the date, before signing any agreement with an employer or prospective employer.
+2. A lawyer reviews the license when possible.
+3. For a release that includes existing material, complete a release notice from the template and publish it with the release.
+4. At that release, update the files that describe licensing, and have each say that v1.0 remains under CC BY-SA 4.0 and AGPL-3.0-or-later:
    - `LICENSE.md`, `FILE-LICENSES.md`, `NOTICE.md`, `README.md`, and the notice at the top of `SOUL.md`
    - `COMPANION/LICENSE.md` and the SPDX line in `COMPANION/spec/README.md`
    - `CITATION.cff`, using `license-url`, because its `license` field only accepts identifiers on the SPDX License List

@@ -11,7 +11,7 @@ The Licensors named below expressly offer the Designated Material listed in this
 Each Licensor offers only material they are authorized to license.
 
 - Licensors: [NAME OR NAMES]
-- License text: `[PATH TO LICENSE FILE]`, SHA-256 `[HASH]`
+- License text: `LICENSES/LicenseRef-Eyla-Commons-1.0.txt`, SHA-256 `ffd9af411a77acb38f04e8a107fb51f62d8a3b8739ed5d4e4b9410622ec25b71`
 
 ## Release
 
