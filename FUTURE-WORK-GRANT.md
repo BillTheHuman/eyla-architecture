@@ -12,6 +12,6 @@ This grant includes a royalty-free license under any patent rights arising from 
 
 This grant comes before any later agreement in which I assign or license such work, including employment, interview, or confidentiality agreements. Any such agreement takes effect subject to this grant and cannot narrow it.
 
-Signed:
+Signed: William Francis Rineer III
 
-Date:
+Date: 2026-10-09
