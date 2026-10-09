@@ -2,7 +2,7 @@
 
 The Eyla Commons License text is final at [`LICENSES/LicenseRef-Eyla-Commons-1.0.txt`](../LICENSES/LicenseRef-Eyla-Commons-1.0.txt).
 It covers nothing by itself.
-It applies to the author's future Eyla work through the advance grant in [`FUTURE-WORK-GRANT.md`](../FUTURE-WORK-GRANT.md) once the author signs it, and to other material only through a release notice.
+It applies to the author's future Eyla work through the signed advance grant in [`FUTURE-WORK-GRANT.md`](../FUTURE-WORK-GRANT.md), and to other material only through a release notice.
 
 Eyla Architecture v1.0 remains licensed under CC BY-SA 4.0 and AGPL-3.0-or-later, as stated in [`LICENSE.md`](../LICENSE.md).
 Those grants are permanent.
@@ -106,7 +106,7 @@ Everything not listed here is the author's text, including publication upon crea
 
 ## Next Steps
 
-1. The author signs [`FUTURE-WORK-GRANT.md`](../FUTURE-WORK-GRANT.md) on main, by typing their name and the date, before signing any agreement with an employer or prospective employer.
+1. Done: the advance grant in [`FUTURE-WORK-GRANT.md`](../FUTURE-WORK-GRANT.md) was signed on 2026-10-09 at the author's direction and published to main with this license, before any agreement with an employer or prospective employer.
 2. A lawyer reviews the license when possible.
 3. For a release that includes existing material, complete a release notice from the template and publish it with the release.
 4. At that release, update the files that describe licensing, and have each say that v1.0 remains under CC BY-SA 4.0 and AGPL-3.0-or-later:
