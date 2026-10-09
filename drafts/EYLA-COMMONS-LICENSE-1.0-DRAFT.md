@@ -81,7 +81,7 @@ A Legal Recipient accepts the applicable license conditions by exercising a righ
 Mere receipt, reading, possession, or an act that requires no permission under applicable law does not by itself constitute acceptance.
 Running a lawfully obtained unmodified program, without a Public Deployment or another activity triggering a condition, does not by itself impose publication duties.
 
-The grant is irrevocable while its conditions are met, subject to Section 12.
+The grant is irrevocable while its conditions are met, subject to Sections 10 and 12.
 Every Legal Recipient receives the offered rights directly from the applicable Licensors.
 The instructions addressed to You throughout this License also apply to addressees that do not independently hold a legal grant.
 A distributor cannot replace those direct grants with a narrower sublicense.
@@ -145,7 +145,7 @@ The notice and source must be available to the public without payment, registrat
 Provide a conspicuous route to them from the service or its documentation.
 An unmodified covered canon also requires disclosure when used in a Public Deployment.
 
-The deployment notice must state the service or deployment name, the responsible operator’s business or project identity, the kind of use made of the Covered Material, its title and source, its release or commit identifier where supplied, applicable author credit, whether and how it was changed, this License’s identification, and a working link to the exact covered version’s Editable Source.
+The deployment notice must state the service or deployment name, the Responsible Operator’s business or project identity, the kind of use made of the Covered Material, its title and source, its release or commit identifier where supplied, applicable author credit, whether and how it was changed, this License’s identification, and a working link to the exact covered version’s Editable Source.
 It must make clear that attribution does not imply endorsement.
 A stable public project identity may be used without publishing a natural person’s home address or private contact information.
 
@@ -198,7 +198,10 @@ Neither the project nor any maintainer, founder, employer, customer, contributor
 Each Licensor and You must not demand, make, accept, or rely on an assignment, exclusive license, proprietary relicense, confidentiality undertaking, or other arrangement that encloses Covered Material, claims exclusive ownership or private proprietary control over it, or withdraws, restricts, replaces, or defeats any public permission or public-release obligation stated here.
 This prohibition covers incorporated portions, modules, adaptations, and integrated additions, including commissioned and employee-created additions.
 A conflicting arrangement gives no exception to this License’s conditions.
-This does not prevent a transfer of copyright, including by inheritance, to a successor who takes it subject to every public grant and condition of this License.
+This prohibition does not prevent a transfer of copyright in Covered Material made on the following terms.
+Anyone who voluntarily transfers it, by sale, gift, assignment, merger, acquisition, reorganization, or otherwise, must first obtain the recipient’s written acceptance of every Licensor obligation in this License, including Sections 8, 9, and 11; a voluntary transfer without that acceptance breaches this License.
+Copyright that passes on death or by other involuntary operation of law needs no acceptance to pass, and a successor who designates material, accepts contributions, or enforces this License thereby accepts every Licensor obligation in it.
+However copyright passes, every public grant remains intact, and this License gives the recipient no power to withdraw, narrow, or replace a public grant, to enclose Covered Material, or to offer it under exclusive or proprietary terms.
 
 Anyone accepting a contribution to Covered Material must accept it on these same public terms.
 A contribution process must not require an ownership assignment, a proprietary relicensing privilege, or a waiver of the contributor’s or public’s rights under this License.
@@ -213,11 +216,16 @@ Moral rights, privacy rights, and publicity rights are not generally waived or l
 Each Licensor grants a nonexclusive, worldwide, royalty-free patent license under patent claims that Licensor controls and that are necessarily infringed by exercising this License’s permissions in that Licensor’s contribution alone or as incorporated in its submitted version of Covered Material.
 The grant does not extend to claims infringed only by Your later modifications or other combinations.
 No third party’s patent rights are granted.
-If a Legal Recipient starts patent litigation, including a cross-claim or counterclaim, alleging that Covered Material or a Licensor’s contribution to it infringes a patent, every patent license granted to that Legal Recipient under this License ends on the date that litigation is filed.
+
+If a Legal Recipient initiates a claim alleging that exercising this License’s permissions in Covered Material infringes a patent, the patent licenses and copyright permissions this License grants that Legal Recipient for the Covered Material alleged to infringe end on the date the claim is made.
+Such a claim is a prohibited patent demand under Section 8, and this Section, not Section 12, sets which permissions end and how they return; the rest of Section 12 applies to that ending as a termination.
+Defending against a claim, challenging a patent’s validity or enforceability, seeking a declaration of non-infringement, invalidity, or rights, and asserting a patent claim as a counterclaim or cross-claim against a party that first asserted a patent claim against that Legal Recipient are not such claims and are not prohibited patent demands under Section 8.
+Once every such claim has been withdrawn with prejudice, irrevocably released, or finally resolved, and no restriction from it remains on anyone’s exercise of this License’s permissions, the ended permissions are restored automatically.
+Restoration does not erase accrued claims or remedies for conduct while they were ended.
 
 ## 11 Continuing public grants
 
-Every Licensor’s grant to the public under this License continues for its stated duration, subject only to termination of a particular recipient’s permissions for that recipient’s noncompliance under Section 12.
+Every Licensor’s grant to the public under this License continues for its stated duration, subject only to the ending of a particular recipient’s permissions under Section 10 or Section 12.
 A sale, acquisition, assignment, change of maintainer, change of name, financing arrangement, private agreement, cessation of distribution, or later licensing notice does not authorize withdrawing or narrowing those grants.
 
 Neither a Licensor nor You may use a transfer, reorganization, or change in a contribution’s status to avoid the public-source, same-license, attribution, or no-enclosure conditions.

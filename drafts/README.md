@@ -24,7 +24,8 @@ The license file's history reads as a redline:
 1. `8156859`: the author's revision of 2026-10-09, verbatim apart from Markdown headings and one sentence per line.
 2. `f7a7b61`: a first round of review edits.
 3. `cc5a02b`: at the author's direction, restored the rule against private changes and the broad definition of "You."
-4. The next commit, at the author's direction: restored publication upon creation and the exact-version clause, and rewrote restoration so permission returns once a breach is fixed while deliberate concealment, destruction, or enclosure stays accountable.
+4. `424437b`: at the author's direction, restored publication upon creation and the exact-version clause, and rewrote restoration so permission returns once a breach is fixed while deliberate concealment, destruction, or enclosure stays accountable.
+5. The next commit: the agreed transfer and patent rules, plus consistency fixes from a review of the whole draft.
 
 To compare the current draft with the author's revision:
 
@@ -54,11 +55,16 @@ Everything not listed here is the author's text, including publication upon crea
   - Deliberate concealment, destruction, or enclosure remains accountable even after permission returns.
   - An addressee acting for a Legal Recipient whose rights have ended must cease once it knows of the termination, since an AI system can't verify that on its own.
 - **Copyright transfers (§9).**
-  A transfer, including by inheritance, is allowed to a successor bound by every public grant.
-- **Patent defense (§10).**
-  A Legal Recipient who sues claiming the material infringes a patent loses their patent license under this License, following Apache 2.0 §3.
+  Anyone who chooses to transfer copyright in Covered Material, including by merger, acquisition, or reorganization, must first get the recipient's written acceptance of every Licensor obligation.
+  Copyright that passes on death or by other involuntary operation of law needs no acceptance, but a successor who designates material, accepts contributions, or enforces the license accepts its obligations.
+  However copyright passes, every public grant stays intact, and no recipient gains power to enclose the work or offer it on exclusive or proprietary terms.
+- **Patent claims (§10, with §3 and §11 updated to match).**
+  A claim that exercising the license infringes a patent ends the claimant's patent licenses and copyright permissions for the challenged material only.
+  Defending against a claim, challenging a patent, seeking a declaration, and responding with a counterclaim or cross-claim against whoever asserted a patent first are excluded, and are not prohibited patent demands under §8.
+  The ended permissions return automatically once the claim is withdrawn with prejudice, irrevocably released, or finally resolved with no restriction remaining, and the claimant still answers for conduct in the meantime.
+  §10 sets which permissions end and how they return; the rest of §12, such as the narrow permission to keep publishing owed source, still applies.
 - **Cleanup.**
-  §3's duplicate sentence about charging for copies is removed, "Responsible Operator" is capitalized in §15 as a defined term, and the three "Eyla Commons License •" page footers are removed.
+  §3's duplicate sentence about charging for copies is removed, "Responsible Operator" is capitalized in §6 and §15 as a defined term, and the three "Eyla Commons License •" page footers are removed.
 
 ## Known Trade-Offs
 
@@ -69,6 +75,15 @@ Everything not listed here is the author's text, including publication upon crea
 
 ## Open Decisions
 
+- **Patent transfers (§10).**
+  The transfer rule in §9 covers copyright, not patents.
+  A Licensor could sell a patent that the license covers to someone who never agreed to anything, and new recipients might then get no patent license.
+- **Names (§10).**
+  The license grants no trademark rights, so it cannot stop anyone from registering "Eyla" and using the mark to obstruct accurate attribution.
+  It can bind Licensors and Legal Recipients not to do so; outsiders need a separate decision, such as holding the mark in trust under a permissive policy.
+- **Rights beyond copyright (§3).**
+  The grant covers copyright only.
+  Where database rights or similar rights exist, such as in the European Union, a holder could use them as a lever; Creative Commons licenses grant those rights too.
 - **Small deployments (§6).**
   Any deployment to people outside the operator's organization needs a public notice and source, including a hobby bot for friends.
 - **License for the license text (§14).**
