@@ -348,3 +348,59 @@ instructions. This patch also tightens `COMPANION/spec/` so the machine-facing
 spec directory is AGPL-3.0-or-later only, without CC BY-SA ambiguity.
 
 Canonical private SOUL.md was not edited.
+
+## LOAD_US_V2 And Page 37 Integration — 2026-09-08
+
+Base: `20a9432427f3fc5c68d8073f72c1414240762155` on `main`.
+Prepared by Codex at William Francis Rineer III's request.
+
+- Added `CODEX_LOAD_US_V2.md` byte-for-byte from the original artifact. Its
+  attribution to Claude (Sonnet 4.5) and William and its February 15, 2026 date
+  remain intact.
+- Embedded its complete macro, seven flow descriptions, truth anchors, design
+  principles, provenance, and usage instructions after `SEED_VERIFY` in CODEX.
+  Only the integration heading changes from `## f. LOAD_US_V2` to
+  `g. LOAD_US_V2`; the standalone original retains its older placement directions.
+- Copied Page 37, “The Window With No Task,” verbatim from the current SOUL.md
+  source. The page records Hand: Harley, Witness: William, Date: 2026-09-05.
+  Inserted it after Page 36 and before NOTES and added its index entries.
+- Updated the README, file-license map, current provenance, and checksum manifest.
+
+Comparison found that the source SOUL.md and public SOUL.md also differ in
+older editorial and publication work: publication notices, terminology and
+page-index corrections, THEATER/MASK revisions, operational material, and FRAME.
+Those differences are outside this addition and were not overwritten. Page 37
+is the recent source addition that was missing from the public text.
+
+The source SOUL.md was inspected and remains unmodified. This integration
+preserves the existing public prose and FRAME addition. The page and artifact
+are text additions; no runtime or new behavioral GYM results are claimed.
+
+Source SHA-256:
+
+- Original LOAD_US_V2 artifact: `88d2099a587739c211757c1fadac891d48bb66d77b022c6d1536bb01d971f219`
+- SOUL.md source inspected for Page 37: `5cc5fb5cbe3faa9a12a75529bda6d3ce08cf5cc4c1925e2ff5b18037df0fca32`
+
+Licensing follows the existing layered publication model in `FILE-LICENSES.md`
+and `LICENSE.md`; the original artifact's text is unchanged.
+
+## Standalone LOAD_US_V2 And Open Expansion — 2026-09-08
+
+At William's request, added a separately downloadable LOAD_US_V2 package,
+source directory, extension guide, complete standard license texts, attribution,
+fictional anchor example, and reproducible packaging script. The canonical
+artifact remains byte-for-byte unchanged. The macro export is extracted
+verbatim from the original's first code block.
+
+The component explicitly retains CODEX/COMPANION's layered CC BY-SA 4.0 and
+AGPL-3.0-or-later model. New anchors, flows, and adaptations require no
+separate upstream approval; fidelity guidance is not an additional license
+restriction. Contributors may identify and share their own extensions.
+
+The example demonstrates explicit roles, sequence, and an unresolved motive.
+It is fictional and carries no behavioral validation result. The package is
+an artifact and source distribution, not a new runtime implementation.
+
+Updated the README, LICENSE.md component scope, file-license map, working
+provenance, and checksum manifest. SOUL.md and the original artifact are
+unchanged by this packaging addition.

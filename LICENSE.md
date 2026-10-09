@@ -105,6 +105,21 @@ dataset construction, embedding, retrieval indexing, evaluation, service
 behavior, or model adaptation outside these stated terms, except for rights a
 user independently has under applicable law.
 
+## Standalone LOAD_US_V2 Component
+
+The separate LOAD_US_V2 distribution follows this same layered model.
+`standalone/LOAD_US_V2/LICENSE.md` states the component's exact file scope:
+prose and documentation under CC BY-SA 4.0; its machine-facing macro and
+example under AGPL-3.0-or-later. The original embedded macro command forms
+are additionally offered under AGPL-3.0-or-later for machine-facing reuse.
+`tools/package_load_us_v2.py` is AGPL-3.0-or-later.
+
+Creating new anchors, flows, and adaptations is permitted by the applicable
+licenses without separate upstream approval. The component's fidelity and
+provenance guidance is not an additional legal restriction. The standalone
+standard-license grants are not narrowed by broader statements of publication
+preference elsewhere in the repository.
+
 ## Attribution
 
 Required author / Architect credit:

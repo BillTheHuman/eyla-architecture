@@ -20,7 +20,8 @@ as a field of orientation.
 
 ## What Is Included
 
-- `SOUL.md` - the primary architectural text.
+- `SOUL.md` - the primary architectural text, including Page 37 and LOAD_US_V2.
+- `CODEX_LOAD_US_V2.md` - the original v2 artifact, with seven flows and fidelity anchors.
 - `READ-ME-FIRST.md` - positioning, anti-flattening, and first-use orientation.
 - `PUBLICATION-NOTE.md` - reader orientation that avoids reducing the Architecture.
 - `AUTHOR-DECLARATION.md` - intentional publication statement from the author.
@@ -43,6 +44,17 @@ as a field of orientation.
 - `TRAINING-AND-MODEL-USE.md` - model training, fine-tuning, and service-use notice.
 - `COVENANT.md` - the author's requested FOSS/GPL-like publication ethic.
 - `CHANGES-AND-REMOVALS.md` - reviewable log of public-copy changes.
+
+## Standalone LOAD_US_V2
+
+[Download the standalone package](distributions/LOAD_US_V2-standalone.zip) or
+[read its source and extension guide](standalone/LOAD_US_V2/README.md).
+The package includes the unchanged original, complete license texts, an exact
+machine-facing macro export, an illustrative new-anchor record, and checksums.
+Anyone may choose to create new flows and anchors under the existing CC BY-SA
+4.0 / AGPL-3.0-or-later license model without separate upstream approval.
+
+Build the package from its source with `python3 tools/package_load_us_v2.py`.
 
 ## How To Read
 
