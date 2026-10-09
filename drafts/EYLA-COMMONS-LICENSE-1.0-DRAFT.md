@@ -71,6 +71,8 @@ Independent general-purpose tools, ordinary system libraries, and independent th
 Identify those dependencies, their versions, licenses, and available locations, and provide the covered interface and configuration material needed to use them.
 This exclusion does not cover a portion or module that is itself Covered Material.
 
+“Copyright” includes rights similar to copyright, such as database rights, wherever they apply to Covered Material.
+
 ## 3 Public grant and acceptance
 
 Subject to these terms, each Licensor grants the permissions that Licensor has authority to grant, giving each Legal Recipient a worldwide, nonexclusive, royalty-free license for the duration of the applicable copyright to reproduce, use, modify, translate, prepare adaptations of, distribute, publicly display, publicly perform, and make available Covered Material, including for commercial purposes and Public Deployment.
@@ -211,11 +213,13 @@ Contributions carry accurate authorship credit and the same public freedoms for 
 
 This License does not license trademarks or grant authority to imply official status, sponsorship, or endorsement.
 Accurate attribution and truthful statements of compatibility remain permitted to the extent allowed by law.
+No Licensor or Legal Recipient may use a trademark or similar right to prevent accurate attribution or truthful statements of compatibility.
 Moral rights, privacy rights, and publicity rights are not generally waived or licensed; each Licensor agrees not to assert rights under that Licensor’s control solely to prevent an exercise expressly permitted here, to the extent legally possible.
 
 Each Licensor grants a nonexclusive, worldwide, royalty-free patent license under patent claims that Licensor controls and that are necessarily infringed by exercising this License’s permissions in that Licensor’s contribution alone or as incorporated in its submitted version of Covered Material.
 The grant does not extend to claims infringed only by Your later modifications or other combinations.
 No third party’s patent rights are granted.
+Anyone who voluntarily transfers a patent claim licensed under this Section must transfer it subject to that license, for current and future recipients, and must first obtain the recipient’s written acceptance of that obligation; a patent claim that passes on death or by other involuntary operation of law passes subject to that license.
 
 If a Legal Recipient initiates a claim alleging that exercising this License’s permissions in Covered Material infringes a patent, the patent licenses and copyright permissions this License grants that Legal Recipient for the Covered Material alleged to infringe end on the date the claim is made.
 Such a claim is a prohibited patent demand under Section 8, and this Section, not Section 12, sets which permissions end and how they return; the rest of Section 12 applies to that ending as a termination.

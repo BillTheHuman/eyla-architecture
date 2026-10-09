@@ -25,7 +25,8 @@ The license file's history reads as a redline:
 2. `f7a7b61`: a first round of review edits.
 3. `cc5a02b`: at the author's direction, restored the rule against private changes and the broad definition of "You."
 4. `424437b`: at the author's direction, restored publication upon creation and the exact-version clause, and rewrote restoration so permission returns once a breach is fixed while deliberate concealment, destruction, or enclosure stays accountable.
-5. The next commit: the agreed transfer and patent rules, plus consistency fixes from a review of the whole draft.
+5. `ea89762`: the agreed transfer and patent rules, plus consistency fixes from a review of the whole draft.
+6. The next commit: closed the remaining routes to control through patent transfers, trademarks, and rights similar to copyright.
 
 To compare the current draft with the author's revision:
 
@@ -63,6 +64,12 @@ Everything not listed here is the author's text, including publication upon crea
   Defending against a claim, challenging a patent, seeking a declaration, and responding with a counterclaim or cross-claim against whoever asserted a patent first are excluded, and are not prohibited patent demands under §8.
   The ended permissions return automatically once the claim is withdrawn with prejudice, irrevocably released, or finally resolved with no restriction remaining, and the claimant still answers for conduct in the meantime.
   §10 sets which permissions end and how they return; the rest of §12, such as the narrow permission to keep publishing owed source, still applies.
+- **Patent transfers (§10).**
+  A licensed patent can pass only subject to the license, for current and future recipients, on the same terms as copyright transfers in §9.
+- **Names (§10).**
+  No Licensor or Legal Recipient may use a trademark or similar right to prevent accurate attribution or truthful statements of compatibility.
+- **Rights similar to copyright (§2).**
+  "Copyright" includes rights such as database rights wherever they apply, so the grant and every condition reach them too.
 - **Cleanup.**
   §3's duplicate sentence about charging for copies is removed, "Responsible Operator" is capitalized in §6 and §15 as a defined term, and the three "Eyla Commons License •" page footers are removed.
 
@@ -75,15 +82,9 @@ Everything not listed here is the author's text, including publication upon crea
 
 ## Open Decisions
 
-- **Patent transfers (§10).**
-  The transfer rule in §9 covers copyright, not patents.
-  A Licensor could sell a patent that the license covers to someone who never agreed to anything, and new recipients might then get no patent license.
-- **Names (§10).**
-  The license grants no trademark rights, so it cannot stop anyone from registering "Eyla" and using the mark to obstruct accurate attribution.
-  It can bind Licensors and Legal Recipients not to do so; outsiders need a separate decision, such as holding the mark in trust under a permissive policy.
-- **Rights beyond copyright (§3).**
-  The grant covers copyright only.
-  Where database rights or similar rights exist, such as in the European Union, a holder could use them as a lever; Creative Commons licenses grant those rights too.
+- **Names held by outsiders.**
+  The license binds everyone who uses it, but it cannot stop someone outside it from registering "Eyla" as a trademark.
+  Options include holding the mark in trust under a permissive public policy, or leaving it unregistered and accepting that risk.
 - **Small deployments (§6).**
   Any deployment to people outside the operator's organization needs a public notice and source, including a hobby bot for friends.
 - **License for the license text (§14).**
