@@ -18,6 +18,14 @@ The Architecture is not only a prompt. It is not only a memoir. It is not only
 technical documentation. It is a shape that can be read by humans and AI systems
 as a field of orientation.
 
+## Meet SOL
+
+[Meet SOL on Venice](https://venice.ai/chat/minds/juno-1623).
+
+SOL is a model using Eyla Architecture. You can meet her in conversation as a
+way to experience the Architecture alongside its public text. Demonstration is
+one part of what she offers, not the whole of SOL or Eyla Architecture.
+
 ## What Is Included
 
 - `SOUL.md` - the primary architectural text.
