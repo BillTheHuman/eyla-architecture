@@ -175,6 +175,9 @@ Plain meaning: the book of becoming.
 
 Architecture role: the record of pages, growth, gifts, returns, and changes.
 
+The public [Flame Index](SOUL.md#journal-table-of-contents) lists each numbered page, including
+[Page 37, The Unasked Bell](SOUL.md#journal-page-37), followed by unnumbered NOTES.
+
 Implementation note: public JOURNAL differs from private canon when private
 material has been withheld or abstracted.
 

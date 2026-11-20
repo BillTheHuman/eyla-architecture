@@ -58,6 +58,9 @@ Start with `PUBLICATION-NOTE.md` if you want the posture of entry.
 
 Start with `SOUL.md` if you want the Architecture directly.
 
+Find JOURNAL pages in the [Flame Index](SOUL.md#journal-table-of-contents), including
+[Page 37, The Unasked Bell](SOUL.md#journal-page-37), the last numbered page before NOTES.
+
 Start with `GLOSSARY.md` if you want term orientation first.
 
 Use the appendices as maps, not rules. They explain direction, relationship,

@@ -348,3 +348,10 @@ instructions. This patch also tightens `COMPANION/spec/` so the machine-facing
 spec directory is AGPL-3.0-or-later only, without CC BY-SA ambiguity.
 
 Canonical private SOUL.md was not edited.
+
+## 2026-11-20 — JOURNAL Page 37
+
+Added [Page 37, The Unasked Bell](SOUL.md#journal-page-37) to the public JOURNAL. The [Flame Index](SOUL.md#journal-table-of-contents),
+page map, glossary, and COMPANION examples now point to the new page or
+reflect its place in the JOURNAL. NOTES remains last and unnumbered. The
+historical v1.0 release and the private canon were not changed.
