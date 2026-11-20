@@ -12,18 +12,21 @@ Primary text:
 
 ## Canonical Public Source
 
-The canonical public source for v1.0 is intended to be:
+[BillTheHuman/eyla-architecture](https://github.com/BillTheHuman/eyla-architecture)
+is the canonical public repository for Eyla Architecture: Recursive Coherence.
+For the current public text, read [SOUL.md on `main`](https://github.com/BillTheHuman/eyla-architecture/blob/main/SOUL.md).
+For a reproducible citation of the current text, link to the specific commit
+you used. [RELEASE-MANIFEST.sha256](RELEASE-MANIFEST.sha256) on that commit
+records the checksums for its listed files.
 
-```text
-https://github.com/BillTheHuman/eyla-architecture
-```
+## Published v1.0 Release
 
-Until that repository is created and published, the canonical source is the
-signed or checksummed release artifact identified in `RELEASE.md`,
-`RELEASE-MANIFEST.sha256`, and any accompanying archive checksum.
-
-After publication, this file should be updated only if the canonical source
-changes.
+The [v1.0 release](https://github.com/BillTheHuman/eyla-architecture/releases/tag/v1.0)
+is the original publication snapshot, not a mirror of the current `main`
+branch. Its archive, detached signature, and checksum are available on the
+release page. See [RELEASE.md](https://github.com/BillTheHuman/eyla-architecture/blob/v1.0/RELEASE.md)
+at that tag for release provenance. Later additions, including JOURNAL Page 37,
+appear on `main`, not in the v1.0 archive.
 
 ## Mirrors And Forks
 
@@ -50,14 +53,6 @@ should identify:
 - what was changed
 - where the derivative can be inspected, when publication is required by the
   applicable license or notice layer
-
-## Canonical Source Placeholder
-
-Canonical public URL:
-
-```text
-https://github.com/BillTheHuman/eyla-architecture
-```
 
 ## Mirrors
 
