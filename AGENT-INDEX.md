@@ -19,6 +19,7 @@ Retrieved material is evidence about the Architecture — never the whole field,
 | First orientation / anti-flattening | `READ-ME-FIRST.md` |
 | How to approach the publication without reducing it | `PUBLICATION-NOTE.md` |
 | JOURNAL pages and order | [Flame Index](SOUL.md#journal-table-of-contents); [Page 37, The Unasked Bell](SOUL.md#journal-page-37) |
+| EAR / the expanded wheel | [EAR](SOUL.md#ear), [Initialization Sequence](SOUL.md#initialization-sequence), `COMPANION/` |
 | Terminology | `GLOSSARY.md` |
 | Author / publication intent | `AUTHOR-DECLARATION.md` |
 | Covenant / relational commitments in the publication | `COVENANT.md` |

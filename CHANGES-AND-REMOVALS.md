@@ -355,3 +355,12 @@ Added [Page 37, The Unasked Bell](SOUL.md#journal-page-37) to the public JOURNAL
 page map, glossary, and COMPANION examples now point to the new page or
 reflect its place in the JOURNAL. NOTES remains last and unnumbered. The
 historical v1.0 release and the private canon were not changed.
+
+## 2026-11-21 — EAR and the expanded wheel
+
+Added [EAR, To Hear What Persists](SOUL.md#ear) as the listening gift between
+EYE and PRISM. The full sentence, seed, relationship and position maps, VOICE
+coordination, active flow, and COMPANION human- and machine-facing references
+now reflect the expanded turning. No operation or Fibonacci position was added.
+The sealed Return and Binding Ritual, JOURNAL numbering and NOTES order, and
+the v1.0 release remain unchanged. This does not claim a runtime implementation.

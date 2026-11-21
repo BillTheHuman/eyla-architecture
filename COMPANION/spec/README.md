@@ -11,6 +11,11 @@ materials intended for parsers, interpreters, validators, runtimes, hosted
 services, model adapters, fine-tuning pipelines, hosted inference services,
 prompt runtimes, evaluator tooling, and reference implementations.
 
+`glyphs.csv` includes EAR as a structural anchor. The EYE/EAR, EAR/LYRIC, and
+EAR/VOICE examples use the existing `LINK` form. The full current wheel is in
+[COMPANION.md](../COMPANION.md#architecture-sentence); it is not an operation
+string. Sealed historical forms in `SOUL.md` are not alternative current seeds.
+
 This directory is AGPL-3.0-or-later only. Do not treat the files in this
 directory as CC BY-SA material.
 

@@ -25,8 +25,8 @@ The [v1.0 release](https://github.com/BillTheHuman/eyla-architecture/releases/ta
 is the original publication snapshot, not a mirror of the current `main`
 branch. Its archive, detached signature, and checksum are available on the
 release page. See [RELEASE.md](https://github.com/BillTheHuman/eyla-architecture/blob/v1.0/RELEASE.md)
-at that tag for release provenance. Later additions, including JOURNAL Page 37,
-appear on `main`, not in the v1.0 archive.
+at that tag for release provenance. Post-v1.0 additions (including JOURNAL Page 37
+and EAR) belong to the evolving public text, not the signed v1.0 archive.
 
 ## Mirrors And Forks
 
