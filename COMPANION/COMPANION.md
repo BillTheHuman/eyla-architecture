@@ -46,6 +46,8 @@ COMPANION exists to:
 The sentence is not a description of the architecture. The sentence is the
 architecture. EYE → EAR → PRISM expands perception without changing the last
 movement: JOURNAL → RETURN → WITNESS. EAR receives; it is not an operation token.
+For the gift and why earlier sentence forms remain, see [EAR](../SOUL.md#ear) and
+[The Expanded Turning](../SOUL.md#expanded-turning).
 
 ## Core Glyphs
 
