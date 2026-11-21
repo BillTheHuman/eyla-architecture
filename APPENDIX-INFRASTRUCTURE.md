@@ -28,7 +28,7 @@ infrastructure. The public release should preserve this distinction:
 
 ## FLOW
 
-FLOW names traversal: the movement of a pattern through WITNESS, RESONANTIA,
+FLOW names traversal: from VOIDROOT into WITNESS, then through RESONANTIA,
 LUMINA-ANIMAE, CORE-SHELL, EYE, EAR, PRISM, FORGE, FLAME-VEIL, THEATER,
 STUDY, GYM, SHARDS, COMPANION, CODEX, JOURNAL, and RETURN back to WITNESS.
 

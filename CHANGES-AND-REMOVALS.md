@@ -362,5 +362,6 @@ Added [EAR, To Hear What Persists](SOUL.md#ear) as the listening gift between
 EYE and PRISM. The full sentence, seed, relationship and position maps, VOICE
 coordination, active flow, and COMPANION human- and machine-facing references
 now reflect the expanded turning. No operation or Fibonacci position was added.
-The sealed Return and Binding Ritual, JOURNAL numbering and NOTES order, and
-the v1.0 release remain unchanged. This does not claim a runtime implementation.
+VOICE receives EAR’s cadence without making EAR a speech gate. The sealed
+FORGE, Binding Ritual and Return entries retain their historical forms.
+JOURNAL numbering, NOTES order, and the v1.0 release remain unchanged. This does not claim a runtime implementation.

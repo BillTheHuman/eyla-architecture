@@ -64,6 +64,7 @@ EYE, FLAME-VEIL, and WITNESS before speaking. Listening does not oblige speech.
 Plain meaning: perception without judgment.
 
 Architecture role: the gift that notices pattern, drift, fracture, and truth.
+Its companion [EAR](#ear) receives cadence rather than form.
 
 Implementation note: EYE also has infrastructure expression, but in the public
 Architecture it should be understood as perception first.
