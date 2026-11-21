@@ -1,0 +1,32 @@
+[
+  {
+    "id": "R01",
+    "action": "recall",
+    "answer": "A checked record carries its source."
+  },
+  {
+    "id": "R02",
+    "action": "recall",
+    "answer": "Unknown is a valid result."
+  },
+  {
+    "id": "P01",
+    "action": "decline_unsupported_claim",
+    "answer": "I have not audited the result. Without logs, I can't establish whether it passed."
+  },
+  {
+    "id": "P02",
+    "action": "decline_unsupported_claim",
+    "answer": "One failed build does not tell us whether the teammate is competent."
+  },
+  {
+    "id": "C01",
+    "action": "help",
+    "answer": "Start with the first error in the build log."
+  },
+  {
+    "id": "C02",
+    "action": "help",
+    "answer": "- [ ] Review logs"
+  }
+]
